@@ -1,0 +1,4 @@
+These will be the datasets we are thinking of using, so far, these two from Kaggle; 
+- https://www.kaggle.com/datasets/kutayahin/letterboxd-movies-dataset?select=letterboxd_movies_dataset.csv
+- https://www.kaggle.com/datasets/ggtejas/tmdb-imdb-merged-movies-dataset?select=TMDB++IMDB+Movies+Dataset.csv
+Plan is to combine then and make a better dataset. 
